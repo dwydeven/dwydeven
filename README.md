@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello weary travler 👋
+
+### Full time student in during the school year, full time market maker in the summer, part time trader always
+### Currently working on an event contract market making algorithm
+### If you are someone interested in hiring me, I am open to sharing a large portion of my algorithm with you
+#### However, most of that work, of which there is a lot, is not public for obvious reasons
+### The projects in here I don't maintain or update, mostly from past classes and random things
 
 <!--
 **dwydeven/dwydeven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
